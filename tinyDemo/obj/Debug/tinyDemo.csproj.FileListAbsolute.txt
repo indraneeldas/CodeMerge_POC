@@ -1,0 +1,5 @@
+D:\Indra\tinymceDemo2\tinyDemo\tinyDemo\bin\tinyDemo.dll
+D:\Indra\tinymceDemo2\tinyDemo\tinyDemo\bin\tinyDemo.pdb
+D:\Indra\tinymceDemo2\tinyDemo\tinyDemo\obj\Debug\ResolveAssemblyReference.cache
+D:\Indra\tinymceDemo2\tinyDemo\tinyDemo\obj\Debug\tinyDemo.dll
+D:\Indra\tinymceDemo2\tinyDemo\tinyDemo\obj\Debug\tinyDemo.pdb
